@@ -1,1 +1,51 @@
 
+
+.background {
+background: linear-gradient(145deg, rgba(87, 38, 216,1) 10%, rgba(110, 110, 102,1) 90%);
+text-align: center;
+border-left:  1px solid white;
+padding: 12px;
+margin: 20px;
+border-right:  1px solid white;
+}
+.frame {
+width: 860px;
+height: 315px;
+margin-bottom: 25px;
+}
+.videostyle {
+font-size: 40px;
+font-family: times;
+color: white;
+}
+.titlebox {
+  width: 115px;
+  height: 56px;
+  background: transparent;
+  border: none;
+  outline: none;
+  border-top: 1.8px solid black;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  border-bottom: 1.8px solid black;
+  color: gold;
+  font-size: 17px;
+  transition: all 5s ease-in-out;
+  font-family: cursive;
+  margin-top: -10px;
+}
+.titledisc {
+  background: transparent;
+  border:none;
+  outline: none;
+  color: red;
+  font-size: 10px;
+  margin-left: -2px;
+  margin-top: -35px;
+  font-family: monospace;
+  text-align: left;
+}
+.info {
+font-size: 14px;
+color:white;
+}
